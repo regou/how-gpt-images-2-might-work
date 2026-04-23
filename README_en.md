@@ -253,3 +253,6 @@ The real system may be far more complex, or may rely on entirely different techn
 But I do think one point is likely true:
 
 If this direction is correct, then the strongest future image-generation systems will not be "models" in the narrow sense. They will look more like image operating systems: systems that coordinate understanding, planning, retrieval, orchestration, and rendering as a unified stack.
+
+
+This work is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License: https://creativecommons.org/licenses/by/4.0/
