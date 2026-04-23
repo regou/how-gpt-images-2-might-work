@@ -175,7 +175,7 @@ This step can be understood as "laying down the structural scaffold first."
 Once the global layout has been established, the model can partition the image into multiple local regions for high-precision rendering.  
 That partitioning need not be a crude fixed grid. It could instead take forms such as:
 
-<p align="right">
+<p>
   <img src="img/tile-based.PNG" alt="Observed tile-based generation pattern" width="320" />
   <br />
   <sub>Inset: one observed tile-based generation pattern, included only as an intuition pump.</sub>
