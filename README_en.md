@@ -1,5 +1,7 @@
 # How GPT-IMAGE-2.0 Might Work: A Speculative Systems Hypothesis
 
+[中文版](./README.md)
+
 > Disclaimer: this is not a restatement of any official implementation. It is a technical hypothesis derived from observed behavior, engineering intuition, and the evolutionary trajectory of contemporary generative models.
 
 I want to put forward a central claim: image models in the GPT-IMAGE-2.0 class are **unlikely to be as simple as "the user provides a prompt, and the model directly emits an image end to end."**  
