@@ -5,9 +5,9 @@
 > Disclaimer: this is not a restatement of any official implementation. It is a technical hypothesis derived from observed behavior, engineering intuition, and the evolutionary trajectory of contemporary generative models.
 
 I want to put forward a central claim: image models in the GPT-IMAGES-2.0 class are **unlikely to be as simple as "the user provides a prompt, and the model directly emits an image end to end."**  
-They are more plausibly multi-stage systems: natural language is first "compiled" into a highly structured generation specification, which is then executed by an image generator specialized for consuming that specification.
+They are more plausibly multi-stage systems: natural language is first "compiled" into a highly structured generation specification, which is then handled by an image generator specialized for working from that specification.
 
-If that claim is directionally correct, many of the system's apparent advantages over conventional text-to-image models become easier to explain: why it is better at complex composition, richer inter-object relationships, typographic layout, and the conversion of vague, colloquial, or discontinuous user intent into an executable image-generation task.
+This article may help explain why it is better at complex composition, richer inter-object relationships, typographic layout, and rendering extremely complex graphics.
 
 
 ## TL;DR
