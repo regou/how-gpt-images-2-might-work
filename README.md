@@ -1,4 +1,4 @@
-# GPT-IMAGE-2.0 是怎么工作的（狂野的猜想）
+# GPT-IMAGES-2.0 是怎么工作的（狂野的猜想）
 
 [English Version](./README_en.md)
 

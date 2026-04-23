@@ -1,4 +1,4 @@
-# How GPT-IMAGE-2.0 Might Work: A Speculative Systems Hypothesis
+# How GPT-IMAGES-2.0 Might Work: A Speculative Systems Hypothesis
 
 [中文版](./README.md)
 
