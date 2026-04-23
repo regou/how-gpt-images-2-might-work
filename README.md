@@ -177,6 +177,12 @@ JSON 只是我们最容易想象的外在形式。它的本质可能是一份“
 在全局布局确定之后，模型再把图像切分成多个局部区域去做高精度渲染。  
 这里的“切块”不一定是生硬的九宫格，也可能是：
 
+<p align="right">
+  <img src="img/tile-based.PNG" alt="tile-based generation 观察示意" width="320" />
+  <br />
+  <sub>附图：一次观察到的 tile-based generation 痕迹，仅作直觉参考。</sub>
+</p>
+
 - 固定大小的网格瓦片
 - 带重叠区域的滑动窗口
 - 按语义区域自适应划分的 patch
